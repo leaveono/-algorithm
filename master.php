@@ -10,3 +10,5 @@ echo "master is test";
 echo "master is test2";
 
 echo "ssh master";
+
+echo "ssh  upstream";
