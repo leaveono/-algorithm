@@ -6,3 +6,5 @@
  * Time: 10:40
  */
 echo "master is test";
+
+echo "master is test2";
